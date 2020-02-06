@@ -1,0 +1,20 @@
+min phase/event          :	9
+Sumber data yg dikonversi:	ISC & BMKG
+Nama file data ISC       :     	dataArrival_ISC.txt
+Nama file data BMKG      :     	dataArrival_BMKG.txt
+  	   
+         Area Data Arrival & Stasiun SAMA	   
+      Area Data Arrival dan Stasiun Perekam	   
+minLAT        :	-10.0
+maxLAT        :	-3.0
+minLON        :	102.0
+maxLON        :	110.0
+  	   
+Total Stasiun :	44
+Total Event   :	4267
+Waktu konversi:	0:11:23.536476
+0	
+0	
+0	
+0	
+0	
