@@ -1,5 +1,5 @@
 # Hello and Thank You,
-# Here is something you need to know about the KonDa Software
+# Here is something you need to know about the KonDa Software.
 
 The KonDa software is made for increase time eficiency, Arrival data usage, and optimize the on going research. Arrival data is the earthquake data type which obtained from BMKG and ISC institution and also another geology and/or geophysics institution. The KonDa software converting the data format institution to be LOTOS (Local Tomography Software) data input format.
 
